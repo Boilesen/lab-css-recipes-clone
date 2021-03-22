@@ -25,3 +25,12 @@ body {
     text-align: center;
     padding: 250px;
   }
+
+
+  #listas {
+    font-size: 1.2em;
+    font-family: 'Geneva', sans-serif;
+    color: #4e4e4e;
+    margin-left: 200px;
+    margin-right: auto;
+  }
